@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @MRL0R3
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...CSS,PYTHON,CS student,JS
-- 💞️ I’m looking to collaborate on ...
+- CS student
+- 🌱 I’m currently learning ...CSS,PYTHON,,JS
 - 📫 How to reach me ...CALL ME
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...HAHA
 
 <!---
