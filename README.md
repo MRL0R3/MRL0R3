@@ -1,7 +1,7 @@
-Computer Science Student at Shahid Beheshti University
-- 🌱 I’m currently learning ...CSS,PYTHON,,JS
-- 📫 How to reach me ...CALL ME
-- ⚡ Fun fact: ...HAHA
+Hi I'm Ahmadreza Jafari
+             Computer Science Student
+             Shahid Beheshti University
+
 
 <!---
 MRL0R3/MRL0R3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
