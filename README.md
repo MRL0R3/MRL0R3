@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @MRL0R3
-- CS student
+Computer Science Student at Shahid Beheshti University
 - 🌱 I’m currently learning ...CSS,PYTHON,,JS
 - 📫 How to reach me ...CALL ME
 - ⚡ Fun fact: ...HAHA
