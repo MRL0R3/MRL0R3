@@ -16,4 +16,10 @@ MRL0R3/MRL0R3 is a ✨ special ✨ repository because its `README.md` (this file
 )
 
 
+
+
+
+
+<!---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MRL0R3&show_icons=true&theme=radical)
+--->
