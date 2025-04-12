@@ -7,6 +7,8 @@ Hi I'm Ahmadreza Jafari
 <!---
 MRL0R3/MRL0R3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 --->
+### Skills
+
 ![img](https://img.shields.io/badge/-C++-00599C?logo=&logoColor=fff)
 
 
