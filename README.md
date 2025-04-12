@@ -11,6 +11,7 @@ MRL0R3/MRL0R3 is a ✨ special ✨ repository because its `README.md` (this file
 
 ![img](https://img.shields.io/badge/-C++-00599C?logo=&logoColor=fff)
 
+### Statics
 
 ![Github_stats](https://github-readme-stats.vercel.app/api?username=MRL0R3&count_private=true&show_icons=true&theme=radical
 )
