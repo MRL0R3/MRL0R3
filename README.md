@@ -5,7 +5,6 @@
 
   <p align="center">
     <strong>Computer Science undergraduate at Shahid Beheshti University (SBU)</strong><br>
-    Passionate about building resilient backend microservices, real-time messaging architectures, high-performance vector search systems, and machine learning pipelines.
   </p>
 
   <p align="center">
