@@ -1,11 +1,11 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ahmadreza+Jafari+%F0%9F%91%8B;CS+%40+Shahid+Beheshti+University;Software+Engineering+%7C+Vector+Search;Full-Stack+Java+%26+Distributed+Systems;Machine+Learning+%26+Data+Science" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ahmadreza+Jafari+%F0%9F%91%8B;CS+%40+Shahid+Beheshti+University;Software+Engineering+%7C+Distributed+Systems;Full-Stack+Java+%26+Microservices;Vector+Search+%7C+Machine+Learning" alt="Typing SVG" />
   </a>
 
   <p align="center">
     <strong>Computer Science undergraduate at Shahid Beheshti University (SBU)</strong><br>
-    Passionate about building resilient backend architectures, real-time messaging systems, high-performance vector search algorithms, and end-to-end machine learning pipelines.
+    Passionate about building resilient backend microservices, real-time messaging architectures, high-performance vector search systems, and machine learning pipelines.
   </p>
 
   <p align="center">
@@ -28,6 +28,22 @@
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center"><a href="https://github.com/MRL0R3/Ecommerce-Platform">E-Commerce Microservices Platform</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Cloud-007ACC?style=flat-square&logo=spring&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Resilience4j-FF5722?style=flat-square" />
+      </p>
+      <ul>
+        <li>Distributed e-commerce architecture across <b>6 autonomous microservices</b> with Spring Cloud Gateway and Netflix Eureka.</li>
+        <li>Resilient inter-service communication using <b>OpenFeign</b>, <b>Resilience4j circuit breakers</b>, and optimistic locking (<code>@Version</code>).</li>
+        <li>Centralized stateless <b>JWT authentication & header propagation</b> across downstream services.</li>
+        <li>Full-featured <b>React 18 + Vite Admin Dashboard</b> with live microservice telemetry and inventory management.</li>
+      </ul>
+    </td>
+    <td width="50%">
       <h3 align="center"><a href="https://github.com/MRL0R3/TelegramFX">TelegramFX: Real-Time Desktop Messenger</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/JavaFX_21-FF8800?style=flat-square&logo=oracle&logoColor=white" />
@@ -38,10 +54,12 @@
       <ul>
         <li>Full-stack desktop messenger modeled after Telegram Desktop, supporting private chats, group channels, stories, and contacts.</li>
         <li>Modular desktop interface designed with <b>JavaFX Scene Builder</b> (FXML) and dynamic Light/Dark CSS theming.</li>
-        <li>Real-time event transport with <b>Spring WebSocket (STOMP)</b> and multi-threaded TCP sockets for live typing indicators and user presence.</li>
-        <li>Robust <b>PostgreSQL 3NF relational schema</b> (15 tables) with UUID keys, delivery/read tracking, and SHA-256 password hashing.</li>
+        <li>Real-time event transport with <b>Spring WebSocket (STOMP)</b> and multi-threaded TCP sockets for live presence.</li>
+        <li>Robust <b>PostgreSQL 3NF relational schema</b> (15 tables) with UUID keys and delivery tracking.</li>
       </ul>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center"><a href="https://github.com/MRL0R3/LSH-Image-Search-System-CBIR">LSH & HNSW Image Search Engine</a></h3>
       <p align="center">
@@ -55,8 +73,6 @@
         <li>Interactive PyQt5 desktop app with 2D PCA vector space clustering and latency benchmarking.</li>
       </ul>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center"><a href="https://github.com/MRL0R3/Data-Science-Assignments">Data Science & ML Suite</a></h3>
       <p align="center">
@@ -70,19 +86,6 @@
         <li><b>Country Socioeconomic Clustering</b> (PCA + K-Means + Hierarchical) & <b>E-Commerce ANOVA / Chi-Square</b> tests.</li>
       </ul>
     </td>
-    <td width="50%">
-      <h3 align="center"><a href="https://github.com/MRL0R3/Genuis-music-platform">Genius Music Platform</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Java_17+-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/REST_API-25D366?style=flat-square" />
-        <img src="https://img.shields.io/badge/RBAC-6C5CE7?style=flat-square" />
-      </p>
-      <ul>
-        <li>Console music discovery platform integrating the external <b>Genius REST API</b>.</li>
-        <li>Clean OOP design with automated exponential backoff on <b>HTTP 429 rate limits</b>.</li>
-        <li>Role-based access control (User, Artist, Admin) and local persistent caching.</li>
-      </ul>
-    </td>
   </tr>
 </table>
 
@@ -94,14 +97,14 @@
 
 | Domain | Technologies & Skills |
 | :--- | :--- |
-| **Languages** | `Java (17 / 21 LTS)` • `Python` • `C++` • `SQL` • `HTML/CSS` • `Bash` |
-| **Backend & Real-Time** | `Spring Boot 3` • `WebSocket (STOMP over SockJS)` • `Multi-threaded TCP Sockets` • `REST APIs` • `JDBC` |
-| **UI & Presentation** | `JavaFX 21` • `Scene Builder (FXML)` • `Custom CSS Theming` • `PyQt5` |
-| **Databases & Systems** | `PostgreSQL (3NF & UUID)` • `MySQL` • `12-Factor App Config` • `Linux` • `Git` |
+| **Languages** | `Java (17 / 21 LTS)` • `Python` • `TypeScript` • `JavaScript` • `SQL` • `C++` • `Bash` |
+| **Backend & Microservices** | `Spring Boot 3` • `Spring Cloud Gateway` • `Eureka Discovery` • `OpenFeign` • `Resilience4j` • `WebSockets (STOMP)` • `REST APIs` |
+| **Frontend & UI** | `React 18` • `Vite` • `Tailwind CSS` • `Framer Motion` • `JavaFX 21` • `Scene Builder` • `PyQt5` |
+| **Databases & Systems** | `PostgreSQL (3NF & UUID)` • `H2 Database` • `MySQL` • `Docker` • `Docker Compose` • `Linux` • `Git` |
 | **Search & Vector Indexing** | `Locality-Sensitive Hashing (LSH)` • `HNSW Graph Indexing` • `Vector Space Projections` |
 | **Machine Learning & AI** | `PyTorch` • `Torchvision` • `Scikit-Learn` • `TensorFlow Decision Forests` • `OpenCV` |
 | **Data Analysis & Statistics** | `NumPy` • `Pandas` • `SciPy` • `Matplotlib` • `Seaborn` • `PCA` • `Hypothesis Testing` |
-| **Security & Architecture** | `SHA-256 Hashing` • `Role-Based Access Control (RBAC)` • `Rate Limiting` • `Session Management` |
+| **Security & Architecture** | `Domain-Driven Design (DDD)` • `Stateless JWT` • `RBAC` • `Optimistic Locking (@Version)` • `Circuit Breaker Pattern` |
 
 </div>
 
