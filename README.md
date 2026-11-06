@@ -110,10 +110,10 @@
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=MRL0R3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="155" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MRL0R3&layout=compact&theme=tokyonight&hide_border=true" height="155" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=MRL0R3&layout=compact&theme=tokyonight&hide_border=true" height="155" alt="Top Languages" />
 </div>
 <div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MRL0R3&theme=tokyonight&hide_border=true" height="155" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=MRL0R3&theme=tokyonight&hide_border=true" height="155" alt="GitHub Streak" />
 </div>
 
 ---
